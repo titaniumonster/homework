@@ -17,5 +17,5 @@ Qi is a developing technology and it's getting more and more widely used in our 
 This touch technology gives more possibilities for the interactions between the system, screeen, and the user.
 
 ### 5. iCloud
-*"iCloud is a cloud storage and cloud computing service from Apple Inc. The service provides its users with means to store data such as documents, photos, and music on remote servers for download to iOS, macOS or Windows devices, to share and send data to other users, and to manage their Apple devices if lost or stolen.""* (https://en.wikipedia.org/wiki/ICloud) 
+*"iCloud is a cloud storage and cloud computing service from Apple Inc. The service provides its users with means to store data such as documents, photos, and music on remote servers for download to iOS, macOS or Windows devices, to share and send data to other users, and to manage their Apple devices if lost or stolen.""* (https://en.wikipedia.org/wiki/ICloud)
 With iCloud and other wireless online(cloud) storage services, we get the chance to save and store our data and share them in a much more easier way rather than plug into a hard-drive.
