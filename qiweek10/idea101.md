@@ -1,1 +1,11 @@
-idea101
+## idea101: Qi Standard
+
+According to Wikipedia, *"Qi is an open interface standard that defines wireless power transfer using inductive charging over distances of up to 4 cm (1.6 inches), and is developed by the Wireless Power Consortium. The system uses a charging pad and a compatible device, which is placed on top of the pad, charging via resonant inductive coupling."* （https://en.wikipedia.org/wiki/Qi(standard) ). Which means it is a technology that achieve wireless charging by just bring the devices close to the chargers that supports Qi. It was first released in 2008, and got widely used in recent years. Electromagnetic induction between planar coils operates Qi. A Qi system includes The Base Station and Mobile Devices. The Base Station connects to the power source and provides inductive power to the Mobile Devices. *The Wireless Power Consortium (WPC) was established on the 17th December 2008 and in the same year adopted Qi as the single standard for inductive charging.*(https://www.qinside.biz/en/support/wireless-power-consortium) The WPC made the global standard for inductive charging, which is Qi. In 2012, Nokia adopted Qi in their Lumia 92 phones, and Google/LG Nexus 4 followed at the same year.Toyota and Ssangyong joined in 2013, and IKEA had some of their lamps and tables adopted Qi in 2015. In 2017, Apple joined Qi with iPhone 8, iPhone 8 Plus, iPhone X.
+
+[Link th other file](In_Progress.md)
+
+[Link th other file](In_Progress.jpg)
+
+[Link th other file](Research.md)
+
+[Link th other file](Research.jpg)
