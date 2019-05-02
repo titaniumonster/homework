@@ -2,11 +2,6 @@
 
 ![Finished_Work](Final.jpg)
 
-- Title: Future Qi Promote
-- Date of execution: 04/10/2019
-- Medium: Acrylic on canvas, Photography, Photoshop
-- Dimensions: height: 6.5”, width: 13”, 150ppi
-
 - Date: April 10, 2019
 - Medium: Acrylic on canvas, Photography, Photoshop
 - Title: Future Qi Promote
