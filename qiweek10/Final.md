@@ -1,6 +1,6 @@
 # Qi Standard
 
-![Finished_Work](Finished_Work.jpg)
+![Finished_Work](Final.jpg)
 
 - Title: Future Qi Promote
 - Date of execution: 04/10/2019
