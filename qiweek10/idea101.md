@@ -1,4 +1,5 @@
-## idea101: Qi Standard
+### Idea No. 101
+# Qi Standard
 
 According to Wikipedia, *"Qi is an open interface standard that defines wireless power transfer using inductive charging over distances of up to 4 cm (1.6 inches), and is developed by the Wireless Power Consortium. The system uses a charging pad and a compatible device, which is placed on top of the pad, charging via resonant inductive coupling."* （https://en.wikipedia.org/wiki/Qi(standard) ). Which means it is a technology that achieve wireless charging by just bring the devices close to the chargers that supports Qi.
 
@@ -6,12 +7,4 @@ Qi Standard was first released in 2008, and got widely used in recent years. Ele
 
 In 2017, Apple announced that they joined Qi with iPhone 8, iPhone 8 Plus, iPhone X at their Apple Worldwide Developers Conference, along with a plan of making a "AirPower" for Apple's products. Their idea of the AirPower is to create a convenient wireless charging product which using the Qi Standard. The biggest selling point is one-to-many charging despite the specific position of the charger. The plan of the AirPower last for two year, in 2019 Apple cancelled this plan because of the technique problem such as overheat, unstable electronic transport, and complicated design. Although Apple cancelled their plan, the potential of Qi are still there.
 
-[In_Progress.md](In_Progress.md)
-
-[In_Progress.jpg](In_Progress.jpg)
-
-[Research.md](Research.md)
-
-[Research.jpg](Research.jpg)
-
-[Final.jpg](Final.jpg)
+![Future Qi Promote](Final.jpg)
